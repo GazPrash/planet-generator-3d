@@ -10,7 +10,7 @@ A 3D web-based procedural planet generator built with [Babylon.js](https://www.b
 - ⚡ **Fast & Optimized** rendering with Babylon.js
 - 🌐 **Web-based** with instant previews using Vite.js
 
-## Demo
+## 📸 Demo
 <video src="https://github.com/user-attachments/assets/51cbecb9-4ed4-4163-92a3-aba72c1e0e9e" controls width="600"></video>
 <video src="https://github.com/user-attachments/assets/c80a8680-33ed-4357-b8a1-5386282c3c63" controls width="600"></video>
 
